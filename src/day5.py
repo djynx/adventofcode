@@ -1,7 +1,6 @@
 import os
 from re import findall
 from collections import deque
-import itertools
 
 
 def parse_stacks_and_moves(f):
